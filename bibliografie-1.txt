@@ -1,0 +1,31 @@
+Rust, WebAsm components and lateral
+
+https://www.rust-lang.org/learn/get-started
+
+
+FileReader
+https://rustwasm.github.io/wasm-bindgen/api/web_sys/struct.FileReader.html
+
+Connection to TypeScript
+https://github.com/bocse/web-assembly-rust-typescript-template 
+
+
+🔋 Batteries Included
+
+
+- wasm-bindgenfor communicating between WebAssembly and JavaScript.
+- console_error_panic_hookfor logging panic messages to the developer console.
+- wee_alloc, an allocator optimized for small code size.
+
+Graphs in Rust
+https://github.com/petgraph/petgraph/blob/master/benches/serialize.rs 
+
+Regex
+https://medium.com/coderhack-com/an-in-depth-guide-to-regex-in-rust-2158220607f2 
+
+Serialization JSON
+https://github.com/serde-rs/json 
+
+Web server
+https://rocket.rs/ 
+https://rocket.rs/guide/v0.5/requests/ 
